@@ -1,0 +1,2 @@
+# FinnkinoApp
+school work
